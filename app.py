@@ -1,3 +1,6 @@
+inventory = {}
+sales = []
+
 def main_menu():
         
     print ("\n=== inventory tracker===")
